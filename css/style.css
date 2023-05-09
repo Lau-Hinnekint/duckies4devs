@@ -181,6 +181,10 @@ body {
     content: "🔻";
 }
 
+.hidden {
+    display: none!important;
+}
+
 .product-advantages > li {
     position: relative;
     margin-left: 5rem;
